@@ -1,0 +1,16 @@
+# PetZone AI Service - Dependencies
+# Cài đặt: pip install -r requirements.txt
+
+# Computer Vision (Python 3.13 compatible)
+opencv-python>=4.9.0
+numpy>=1.26.0
+
+# Web Framework (cho video streaming)
+Flask>=3.0.0
+Werkzeug>=3.0.0
+
+# HTTP Client (gửi API)
+requests>=2.31.0
+
+# Optional: YOLO (nếu muốn nâng cấp sau)
+# ultralytics>=8.1.0

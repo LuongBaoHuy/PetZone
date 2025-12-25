@@ -1,0 +1,8 @@
+# Các file rác của Visual Studio và Hệ thống
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+.venv/
+node_modules/
+.DS_Store
