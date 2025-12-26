@@ -5,12 +5,22 @@
 opencv-python>=4.9.0
 numpy>=1.26.0
 
-# Web Framework (cho video streaming)
+# Web Framework (cho video streaming & AI API)
 Flask>=3.0.0
 Werkzeug>=3.0.0
 
 # HTTP Client (gửi API)
 requests>=2.31.0
 
+# Scientific computing for fuzzy logic
+scipy>=1.11.0
+
+# Optional: Advanced ML libraries
+# scikit-learn>=1.3.0
+# pandas>=2.1.0
+
 # Optional: YOLO (nếu muốn nâng cấp sau)
 # ultralytics>=8.1.0
+
+# Optional: MQTT support cho IoT
+# paho-mqtt>=1.6.0
